@@ -1,9 +1,9 @@
 package org.example;
 
 public class Vehicle {
-    private String manufacturer;
-    private String model;
-    private int yearOfManufacture;
+    String manufacturer;
+    String model;
+    int yearOfManufacture;
 
     public Vehicle(String manufacturer, String model, int yearOfManufacture) {
         this.manufacturer = manufacturer;
