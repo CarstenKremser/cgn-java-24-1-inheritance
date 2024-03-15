@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58286103-f1fd-4c98-9569-bac669bb440c" name="Changes" comment="Implement main">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="58286103-f1fd-4c98-9569-bac669bb440c" name="Changes" comment="Add README.md">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Motorcycle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710497079138</updated>
-      <workItem from="1710497080193" duration="1268000" />
+      <workItem from="1710497080193" duration="1565000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -134,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710498235224</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add README.md">
+      <option name="closed" value="true" />
+      <created>1710498383583</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710498383583</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +155,7 @@
     <MESSAGE value="Add method toString() to Vehicle" />
     <MESSAGE value="Add method toString() to Car" />
     <MESSAGE value="Implement main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement main" />
+    <MESSAGE value="Add README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add README.md" />
   </component>
 </project>
