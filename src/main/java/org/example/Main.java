@@ -1,7 +1,14 @@
 package org.example;
 
 public class Main {
+
+
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        Vehicle myBike = new Vehicle("Peugeot", "27 Bike", 1990);
+        Car myCar = new Car("BMW", "3 series", 2005, 5);
+
+        System.out.println(myBike);
+        System.out.println(myCar);
     }
 }
